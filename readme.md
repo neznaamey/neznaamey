@@ -30,7 +30,7 @@ Hi, I'm **Antonín**, but on the internet, I go by the alias **neznaamey** (whic
 * Python, Luau, Bash
 
 **Infrastructure & DevOps**
-* Linux (Ubuntu), VPS Administration, MariaDB, Git, Performance Tuning (G1GC)
+* Linux (Ubuntu), VPS Administration, MariaDB, Git, Performance Tuning (G1GC, ZGC)
 
 ---
 
