@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm neznaamey 👋</h1>
+<h1 align="center">Hi there, I'm neznaamey (Nez) 👋</h1>
 
 <h3 align="center">✦ Developer, Linux enthusiast & Server Administrator ✦</h3>
 
@@ -21,13 +21,14 @@
 ### 🛠️ Tech Stack & Tools
 
 * **Languages & Web:** Python, Luau, HTML, CSS, JavaScript
-* **Systems & Ops:** Linux (Ubuntu, Linux Mint), Bash, Git, VPS Administration, MariaDB
+* **Systems & Ops:** Linux (Ubuntu), Bash, Git, VPS Administration, MariaDB
 * **Environments:** Roblox Studio, Minecraft Server Infrastructure
 
 ---
 
 ### 🚀 Active Projects
 
+* **[Personal Website](https://neznaamey.eu)** – A sleek, minimalist personal portfolio featuring custom interactive animations and web design.
 * **[MythBastion](https://mythbastion.fun)** – Maintaining and optimizing a custom Lifesteal Minecraft server ecosystem.
 * **Personal Profile** – Crafting sleek, minimalist web portfolios with interactive animations and custom design elements.
 
